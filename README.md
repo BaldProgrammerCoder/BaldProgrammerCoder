@@ -1,5 +1,6 @@
 <h1 align="center"> 你好<img src="https://raw.githubusercontent.com/vitasha10/vitasha10/main/assets/Hand%20Wave.gif" width="33"/>，我是秃头程序猿</h1>
-<h3 align="center">一只爱敲代码的程序猿</h3>
+<h3 align="center">A programmer who loves to code</h3>
+<h4 align="center">一只爱敲代码的程序猿</h4>
 
 
 ### 👨🏻‍💻 &nbsp;介绍
