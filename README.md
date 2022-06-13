@@ -1,17 +1,16 @@
-<h1 align="center"> 你好<img src="https://raw.githubusercontent.com/vitasha10/vitasha10/main/assets/Hand%20Wave.gif" width="33"/>，我是秃头程序猿</h1>
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/vitasha10/vitasha10/main/assets/Hand%20Wave.gif" width="33"/>,I am Bald Programmer</h1>
 <h3 align="center">A programmer who loves to code</h3>
-<h4 align="center">一只爱敲代码的程序猿</h4>
 
 
-### 👨🏻‍💻 &nbsp;介绍
+### 👨🏻‍💻 &nbsp;Introduction
 
-- 💡 &nbsp;我喜欢Java后端开发同时也喜欢探究新技术和开发网站。
-- 🎓 &nbsp;我今天17岁，编程是我生命中不可缺少的部分，我非常喜欢编程和敲代码，我目前在南方IT学院学习。
-- 🌱 &nbsp;我正在学习Java、C#、C++、Python、Web开发等技术。
-- ✍️ &nbsp;编程是我现如今的唯一的梦想，小时候的梦想是学音乐，但音乐已成为我的兴趣爱好。
-- 💬 &nbsp;我很喜欢讨论软件开发上的问题，可以通过我的电子邮件与我联系。
+- 💡 &nbsp;I like Java back-end development and I also like to explore new technologies and develop websites.
+- 🎓 &nbsp;I am 17 years old today, programming is an indispensable part of my life, I really like programming and knocking codes, I am currently studying at Nanfang IT Academy.
+- 🌱 &nbsp;I am learning Java, C#, C++, Python, web development and other technologies.
+- ✍️ &nbsp;Programming is my only dream nowadays, my childhood dream is to learn music, but music has become my hobby.
+- 💬 &nbsp;I love to discuss software development issues and can be contacted via my email.
 
-### 🛠 &nbsp;技术栈
+### 🛠 &nbsp;Technology Stack
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/teddylun/teddylun/master/assets/gif4.gif" width="400"/>
 
 ![Java](https://img.shields.io/badge/java-%23E34F26.svg?style=flat&logo=Java&logoColor=white)&nbsp;
@@ -34,7 +33,7 @@
 
 
 <details>
-<summary>更多技能</summary>
+<summary>More skills</summary>
 
 ![lntellij IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-05122A?style=flat&logo=IntelliJ%20IDEA)&nbsp;
 ![WebStorm](https://img.shields.io/badge/WebStorm-05122A?style=flat&logo=WebStorm)&nbsp;
