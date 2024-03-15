@@ -4,9 +4,9 @@
 
 ### 👨🏻‍💻 &nbsp;Introduction
 
-- 💡 &nbsp;I like Java back-end development and I also like to explore new technologies and develop websites.
-- 🎓 &nbsp;I am 18 years old today, programming is an indispensable part of my life, I really like programming and knocking codes, I am currently studying at Nanfang IT Academy.
-- 🌱 &nbsp;I am learning Java, C#, C++, Python, web development and other technologies.
+- 💡 &nbsp;I like Java back-end development and I also like to explore new technologies and develop applications.
+- 🎓 &nbsp;Programming is an indispensable part of my life, I really like programming and knocking codes.
+- 🌱 &nbsp;I am learning Java, Go, C++, Python, web development and other technologies.
 - ✍️ &nbsp;Programming is my only dream nowadays, my childhood dream is to learn music, but music has become my hobby.
 - 💬 &nbsp;I love to discuss software development issues and can be contacted via my email.
 
