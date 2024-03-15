@@ -13,7 +13,7 @@
 ### 🛠 &nbsp;Technology Stack
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/teddylun/teddylun/master/assets/gif4.gif" width="400"/>
 
-![Java](https://img.shields.io/badge/java-%23E34F26.svg?style=flat&logo=Java&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
