@@ -16,8 +16,6 @@
 - 💬 &nbsp;I love to discuss software development issues and can be contacted via my email.
 
 ### 🛠 &nbsp;Technology Stack
-<img alt="GIF" src="./assets/gif4.gif" align="right"  width="400"/>
-<img alt="Night-Coding" src="./assets/Night-Coding.gif" align="right" width="400"/>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -39,6 +37,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
 
 </details>
+
+<img alt="GIF" src="./assets/gif4.gif" align="right"  width="400"/>
+<img alt="Night-Coding" src="./assets/Night-Coding.gif" align="right" width="400"/>
 
 <p align="center">
 <a target="_blank"  href="https://www.behance.net/gallery/55389655/gif-Collection-Two/modules/326567415">
